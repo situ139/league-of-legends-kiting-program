@@ -5,6 +5,8 @@ When you first start the app you need to press B to bind your attack move key (c
 
 Controls:
 
+B Binds your attack button, can be mouse buttons or keyboard.
+
 ATTACK SPEED
 
 ] Increase attack speed by .10
