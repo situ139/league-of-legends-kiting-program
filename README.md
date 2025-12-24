@@ -1,8 +1,6 @@
 # league-of-legends-kiting-program
 A simple program to practice kiting in League of Legends
 
-When you first start the app you need to press B to bind your attack move key (can be a mouse button too).
-
 Controls:
 
 B Binds your attack button, can be mouse buttons or keyboard.
